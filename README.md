@@ -2,7 +2,7 @@
 >>Best luck your future👍👍
 
 # Core Java Interview Quetions
-1) what are static blocks and static initalizers in Java ?
+1) What are static blocks and static initializers in Java?
 ># _answer_
 >> //TODO
 2) How to call one constructor from the other constructor ?
