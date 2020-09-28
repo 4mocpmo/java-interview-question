@@ -1,7 +1,7 @@
 >anywhere go interview prepare this questions and answer definitely crack interview 
 >>Best luck your future👍👍
 
-# corejava Interview Quetions
+# Core Java Interview Quetions
 1) what are static blocks and static initalizers in Java ?
 ># _answer_
 >> //TODO
