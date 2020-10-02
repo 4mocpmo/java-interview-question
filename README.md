@@ -8,11 +8,18 @@
 
 # Core Java Interview Quetions
 0) What is Java?
->Java is the high-level, object-oriented, robust, secure programming language, platform-independent, high performance, Multithreaded, and portable programming language. It was developed by James Gosling in June 1991. It can also be known as the platform as it provides its own JRE and API.
+``` 
+Java is the high-level, object-oriented, robust, secure programming language, platform-independent, high performance, Multithreaded, and portable programming language. It was developed by James Gosling in June 1991. It can also be known as the platform as it provides its own JRE and API. 
+```
 1) What are static blocks and static initializers in Java?
-> //TODO
+```
+//TODO
+```
 2) How to call one constructor from the other constructor ?
-> //TODO
+```
+//TODO
+```
+
 3) What is method overriding in java ?
 4) What is super keyword in java ? 
 5) Difference between method overloading and method overriding in java ?
