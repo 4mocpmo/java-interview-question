@@ -17,7 +17,7 @@
 
 + [Interview questions on Nested classses and inner classes](#Interview-questions-on-Nested-classses-and-inner-classes)
 
-+ [Oops concepts interview questions](#Oops-concepts-interview-questions]
++ [Oops concepts interview questions](#Oops-concepts-interview-questions)
 
 + [Core java Serialization interview questions](#Core-java-Serialization-interview-questions)
 
