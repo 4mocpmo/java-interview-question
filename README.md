@@ -7,7 +7,40 @@
 #### anywhere go interview prepare this questions and answer definitely crack interview , Best luck your future👍👍
 </br>
 
-[Core Java Interview Quetions](#Core-Java-Interview-Quetions)
+# Java
+
++ [Core Java Interview Quetions](#Core-Java-Interview-Quetions)
+
++ [Core java Interview questions on Coding Standards](#Core-java-Interview-questions-on-Coding-Standards)
+
++ [Java Interview questions on threads](#Java-Interview-questions-on-threads)
+
++ [Interview questions on Nested classses and inner classes](#Interview-questions-on-Nested-classses-and-inner-classes)
+
++ [Oops concepts interview questions](#Oops-concepts-interview-questions]
+
++ [Core java Serialization interview questions](#Core-java-Serialization-interview-questions)
+
++ [Collection Framework interview questions](#Collection-Framework-interview-questions)
+
+</br>
+
+# Spring
+
++ [Spring overview](#Spring-overview)
+
++ [Dependency Injection](#Dependency-Injection)
+
++ [Spring Beans](#Spring-Beans)
+
++ [Spring Annotations](#Spring-Annotations)
+
++ [Spring Data Access](#Spring-Data-Access)
+
++ [Spring Aspect Oriented Programming (AOP)](#Spring-Aspect-Oriented-Programming-(AOP))
+
++ [Spring Model View Controller (MVC)](#Spring-Model-View-Controller-(MVC))
+
 
 # Core Java Interview Quetions
 
@@ -60,8 +93,6 @@
 37) Can we have multiple classes in single file ?  
 38) What all access modifiers are allowed for top class ?  
 39) What are packages in java? 
-
-
 40) Can we have more than one package statement in source file ?  
 41) Can we define package statement after import statement in java? 
 42) What are identifiers in java? 
@@ -82,8 +113,6 @@
 56) What are advantages of Exception handling in java?  
 57) In how many ways we can do exception handling in java?  
 58) List out five keywords related to Exception handling ?  
-
-
 59) Explain try and catch keywords in java? 
 60) Can we have try block without catch block? 
 61) Can we have multiple catch block for a try block?  
