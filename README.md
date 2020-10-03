@@ -7,6 +7,8 @@
 #### anywhere go interview prepare this questions and answer definitely crack interview , Best luck your future👍👍
 </br>
 
+[Core Java Interview Quetions](#Core-Java-Interview-Quetions)
+
 # Core Java Interview Quetions
 
 1) What are static blocks and static initializers in Java?
