@@ -17,7 +17,7 @@
 
 </br>
 
-# Java
+# Java question
 
 + [Core Java Interview Quetions](#Core-Java-Interview-Quetions)
 
@@ -35,7 +35,7 @@
 
 </br>
 
-# Spring
+# Spring question
 
 + [Spring overview](#Spring-overview)
 
