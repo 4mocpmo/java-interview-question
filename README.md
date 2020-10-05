@@ -47,9 +47,9 @@
 
 + [Spring Data Access](#Spring-Data-Access)
 
-+ [Spring Aspect Oriented Programming (AOP)](#Spring-Aspect-Oriented-Programming-,-AOP)
++ [Spring Aspect Oriented Programming (AOP)](#Spring-Aspect-Oriented-Programming)
 
-+ [Spring Model View Controller (MVC)](#Spring-Model-View-Controller-,-MVC)
++ [Spring Model View Controller (MVC)](#Spring-Model-View-Controller)
 
 
 # Core Java Interview Quetions
@@ -410,7 +410,7 @@ references too?
 
 50) Which Transaction management type is more preferable?
  
-# Spring Aspect Oriented Programming , AOP
+# Spring Aspect Oriented Programming
 
 51) Explain AOP
 52) Aspect
@@ -426,7 +426,7 @@ references too?
 62) Explain XML Schema-based aspect implementation?
 63) Explain annotation-based (@AspectJ based) aspect implementation
  
-# Spring Model View Controller , MVC
+# Spring Model View Controller
 
 64) What is Spring MVC framework?
 65) DispatcherServlet
