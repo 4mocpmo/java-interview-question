@@ -70,10 +70,60 @@ Every suggestions, comments & contributions are greatly appreciated. Please rate
 ```
 //TODO
 ```
-2) How to call one constructor from the other constructor ?
+----
+
+2) How to call one constructor from the other constructor ?</br>
+When we have several constructor:</br>
+Calling a constructor from the another constructor of same class is known as Constructor chaining.</br>
+The real purpose of Constructor Chaining is that you can pass parameters through a bunch of different constructors, but only have the initialization done in a single place.This allows you to maintain your initializations from a single location, while providing multiple constructors to the user</br>
+With a simple example we can better express its meaning.</br>
+
+ ```
+ public class MyClass {
+     public MyClass() {
+          System.out.println("Default Constructor");
+     }
+
+     public MyClass(String str) {
+          this();
+          System.out.println("Constructor with single parameter");
+     }
+
+     public MyClass(String str, int num) {
+          this("test");
+          System.out.println("Constructor with double parameter");
+     }
+
+     public MyClass(int num1 , int num2, int num3) {
+          this("test",2);
+          System.out.println("Constructor with three parameter");
+    }
+ }
 ```
-//TODO
+
 ```
+     public static void main(String[] args) {
+          MyClass chain = new MyClass();
+          System.out.println("-------------------------");
+          MyClass chain = new MyClass(2,1,3);
+          
+          
+     }
+```
+Output of this code :
+
+```
+Default Constructor
+-------------------------
+Default Constructor
+Constructor with single parameter
+Constructor with double parameter
+Constructor with three parameter
+
+
+```
+
+----
 
 3) What is method overriding in java ?
 4) What is super keyword in java ? 
