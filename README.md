@@ -126,7 +126,57 @@ Constructor with three parameter
 ----
 
 3) What is method overriding in java ?
-4) What is super keyword in java ? 
+#### 4) What is super keyword in java ? 
+The super keyword refres to superclass (parent) object.</br> 
+It is majorly used in the following contexts :
++ to Access the variable from (parent) object 
++ Call superclass method 
++ to Access the superclass constructor.</br>
+
+```
+public class Parent{
+    String name;
+    Integer id;
+
+    public Parent(String name, Integer id){
+        this.name = name;
+        this.id = id;
+    }
+
+    public String message(){
+        return "this is the parent class";
+    }
+}
+
+public class Child extend Parent{
+    Integer weight;
+
+    public Child(Integer weight , String name , Integer id ){
+        /*[to access the super class constructor] invoke or call parent class constructor */
+        super(name , id);  //this line should be first line of child constructor
+        this.weight = weight;
+    }
+
+    public String getParentName(){
+        /*[variable] return name of (parent) object */
+        return super.name;
+    }
+
+    public String message(){
+        return "this is the child class";
+    }
+
+    public void printMessage(){
+        /* this is a message from child*/
+        System.out.println(this.message);
+
+        /*[calling method from parent] this is a message from parent*/
+        System.out.println(super.message);
+    }
+
+}
+```
+----
 5) Difference between method overloading and method overriding in java ?
 6) Difference between abstract class and interface ?
 7) Why java is platform independent? 
