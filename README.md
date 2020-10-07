@@ -12,7 +12,14 @@ This repo would be helpful for those Java developers who:
 >3- Going to be employed by an organization and need to have an overview on core theory concepts (Interview Questions)  
 >4- Are kind of experienced and want to know more theory concepts  
 
-Every suggestions, comments & contributions are greatly appreciated. Please rate us if this repo helps you anyway.
+Every suggestions, comments & contributions are greatly appreciated. Please rate us if this repo helps you anyway.</br>
+contact us: 
++ Telegram :
+  + [Mostafa](https://t.me/mostafaahmadi4622018)
+  + [AmirHossein](https://t.me/Amir_hossein_1999)
+
+
+
 
 # Java
 
