@@ -9,7 +9,7 @@ answer frequently asking questions around Java technology and frameworks based o
 This repo would be helpful for those Java developers who:
 >1- Have a little knowledge about Java technology and want to improve their knowledge  
 >2- Want to know more about some specific contexts  
->3- Going to employed by an organization and need to have an overview on core theory concepts (Interview Questions)  
+>3- Going to be employed by an organization and need to have an overview on core theory concepts (Interview Questions)  
 >4- Are kind of experienced and want to know more theory concepts  
 
 Every suggestions, comments & contributions are greatly appreciated. Please rate us if this repo helps you anyway.
