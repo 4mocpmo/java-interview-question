@@ -73,10 +73,10 @@ Every suggestions, comments & contributions are greatly appreciated. Please rate
 ----
 
 #### 2) How to call one constructor from the other constructor ?</br>
-When we have several constructor:</br>
+When we have several constructor :</br>
 Calling a constructor from the another constructor of same class is known as Constructor chaining.</br>
 The real purpose of Constructor Chaining is that you can pass parameters through a bunch of different constructors, but only have the initialization done in a single place.This allows you to maintain your initializations from a single location, while providing multiple constructors to the user</br>
-With a simple example we can better express its meaning.</br>
+With a simple example we can better see its meaning.</br>
 
  ```
  public class MyClass {
