@@ -66,13 +66,13 @@ Every suggestions, comments & contributions are greatly appreciated. Please rate
 
 # Core Java Interview Quetions
 
-1) What are static blocks and static initializers in Java?
+#### 1) What are static blocks and static initializers in Java?
 ```
 //TODO
 ```
 ----
 
-2) How to call one constructor from the other constructor ?</br>
+#### 2) How to call one constructor from the other constructor ?</br>
 When we have several constructor:</br>
 Calling a constructor from the another constructor of same class is known as Constructor chaining.</br>
 The real purpose of Constructor Chaining is that you can pass parameters through a bunch of different constructors, but only have the initialization done in a single place.This allows you to maintain your initializations from a single location, while providing multiple constructors to the user</br>
