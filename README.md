@@ -1,6 +1,18 @@
-# java and spring interview question
+# Java Interview Questions
 
->#### anywhere go interview prepare this questions and answer definitely crack interview , Best luck your future👍👍
+Today, there are about 10,000,000 Java developers around the world, Not necessarily this number but if we keep together all kinds of Java
+developers (senior, junior, students, back-end developers, mobile developers etc) and let's say in one word:
+ ALL KINDS OF JAVA DEVELOPERS, then we can trust to those statistics. Beside of this huge number of Java users, there are
+a lot of resources for learning Java language such as books, official documents, websites, youtube videos, code examples 
+on SCM remotes, online & offline courses etc. The main goal of making this public repository on Github is to provide a resource to
+answer frequently asking questions around Java technology and frameworks based on it.  
+This repo would be helpful for those Java developers who:
+>1- Have a little knowledge about Java technology and want to improve their knowledge  
+>2- Want to know more about some specific contexts  
+>3- Going to employed by an organization and need to have an overview on core theory concepts (Interview Questions)  
+>4- Are kind of experienced and want to know more theory concepts  
+
+Every suggestions, comments & contributions are greatly appreciated. Please rate us if this repo helps you anyway.
 
 # Java
 
