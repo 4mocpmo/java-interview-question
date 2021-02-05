@@ -77,9 +77,25 @@ contact us:
 
 # Core Java Interview Quetions
 
-#### 1) What are static blocks and static initializers in Java?
+#### 1) What are static blocks and static initializers in Java?</br>
+the static initialization blocks can only initialize the static instance variables. These blocks are only executed once when the class is loaded.and we know Instance variables are initialized using initialization block.
 ```
-//TODO
+public class Test {
+   static int number = 0 ;
+   static {
+      System.out.println("Running static initialization block.");
+      number = 5;
+   }
+   public static void main(String[] args) {
+      Test obj1 = new Test();
+      System.out.println(Test.number);
+   }
+}
+```
+Output of this code :
+
+```
+5
 ```
 ----
 
