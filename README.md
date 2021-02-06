@@ -153,10 +153,35 @@ Constructor with three parameter
 ----
 
 #### 3) What is method overriding in java ?
+If subclass (child) has the same method as declared in the parent class, it is known as method overriding in Java.<br/>
+in other words, if subclass provides a specific implementation of the method that has been declared by one it's parentclass, it's known as method overriding.<br/>
+Method overriding is used to provide the specific implementation of a method which is already provided by its superclass.<br/>
+Method overriding is used for runtime polymorphism.<br/>
+
+###### Rols for java method overriding:
+
+* The method must have the same name as in the parent class.
+* The method must have the same parameter as in the parent class.
+* There must be an IS-A relationship (inheritance).
+
 
 ```
-//TODO
+public class Parent{
+    public String info(){
+         return "this is Parent";
+    }
+}
 ```
+```
+public class Child extends Parent{
+    @Override
+    public String info(){
+         return "this is Child";
+    }
+}
+```
+for more information, vist [here](https://www.javatpoint.com/method-overriding-in-java)
+
 ----
 #### 4) What is super keyword in java ? 
 The super keyword refres to superclass (parent) object.</br> 
