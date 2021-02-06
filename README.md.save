@@ -157,6 +157,7 @@ If subclass (child) has the same method as declared in the parent class, it is k
 in other words, if subclass provides a specific implementation of the method that has been declared by one it's parentclass, it's known as method overriding.<br/>
 Method overriding is used to provide the specific implementation of a method which is already provided by its superclass.<br/>
 Method overriding is used for runtime polymorphism.<br/>
+![](images/overriding.png)
 
 ###### Rols for java method overriding:
 
@@ -172,6 +173,7 @@ public class Parent{
     }
 }
 ```
+
 ```
 public class Child extends Parent{
     @Override
@@ -180,9 +182,6 @@ public class Child extends Parent{
     }
 }
 ```
-Consider a scenario where Bank is a class that provides functionality to get the rate of interest. However, the rate of interest varies according to banks. For example, SBI, ICICI and AXIS banks could provide 8%, 7%, and 9% rate of interest.<br/>
-![](images/overriding.png)
-
 for more information, vist [here](https://www.javatpoint.com/method-overriding-in-java)
 
 ----
